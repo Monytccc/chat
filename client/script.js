@@ -4,7 +4,7 @@ import user from "./assets/user.svg";
 const form = document.querySelector('form');
 const chatContainer = document.querySelector('#chat_container');
 // const serverApi = "http://localhost:5000/";
-const serverApi = "https://nodejs.mnytc.repl.co/";
+const serverApi = "https://dull-pink-firefly-boot.cyclic.app/";
 
 let loadInterval;
 
